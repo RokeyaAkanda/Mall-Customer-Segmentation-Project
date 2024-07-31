@@ -1,1 +1,2 @@
 # Mall-Customer-Segmentation-Project
+In this innovative project, I utilized the powerful unsupervised learning algorithm, K-Means Clustering, to segment Mall Customers based on vital factors like Age, Gender, Annual Income, and Spending Score. Leveraging a robust dataset from Kaggle named Mall Customers, I harnessed the potential of tools like Numpy, Pandas , Matplotlib, Seaborn, Plotly, and Sklearn to analyze, visualize, and cluster the data effectively.
